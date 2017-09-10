@@ -1,5 +1,6 @@
 # i3lock-Image-Changer
 Short Script to randomly choose a Backgroud-Image for i3lock
+(I recommend to use .png files because .jpg files seem to throw memory errors)
 
 ## Usage
 - Copy the script to your favorite location and add a ```bindsym``` 
